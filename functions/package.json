@@ -1,0 +1,7 @@
+{
+  "name": "your-flask-app",
+  "dependencies": {
+    "express": "^4.17.1",
+    "firebase-functions": "^3.15.0"
+  }
+}
